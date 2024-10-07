@@ -5,7 +5,6 @@
     width: 40vw;
     background: url(clock.png);
     background-size: 100%;
-    border: 2px solid red;
 }
 
 #hour, #minute, #second {
